@@ -1,0 +1,73 @@
+2016-07-22  Matthew Carter  <m@ahungry.com>
+
+	Merge commit '3ce72cf77cf5958d91b65bc4867cbacff968da74'
+
+2016-07-11  Paul Eggert	 <eggert@cs.ucla.edu>
+
+	Fix some quoting problems in doc strings
+
+	Most of these are minor issues involving, e.g., quoting `like this' 
+	instead of 'like this'.	 A few involve escaping ` and ' with a preceding
+	\= when the characters should not be turned into curved single quotes.
+
+2016-05-16  Matthew Carter  <m@ahungry.com>
+
+	Merge commit 'f4163526c6f603b9dea1d8a3253d31c135fd8876'
+
+2016-02-08  Matthew Carter  <m@ahungry.com>
+
+	Merge commit '1ce5a659e968af25122b46a3fc3b04b30b5ebdd5'
+
+2015-10-14  Matthew Carter  <m@ahungry.com>
+
+	Merge commit '52b050992ef6fe0e6e57b51bcb5c98e02c616541'
+
+2015-10-12  Matthew Carter  <m@ahungry.com>
+
+	Merge commit '66d05f89242cd4b996ce5dcea0a5fcf9b4e5a1b6'
+
+2015-08-30  Matthew Carter  <m@ahungry.com>
+
+	Merge commit 'affdc4611d859e6f643e38c2ed9ad83debb92633'
+
+2015-07-08  Matthew Carter  <m@ahungry.com>
+
+	Merge commit '9e64c798557bb7f1eeca91140515cb8d11edc8d6'
+
+2015-07-05  Matthew Carter  <m@ahungry.com>
+
+	Merge commit '4c478268da6f324deb8753ac1d1c83e767b14dca'
+
+2015-06-29  Matthew Carter  <m@ahungry.com>
+
+	Merge commit 'e64a9cd001b82d0f8238d41bb36e6c0c7b0449b3'
+
+2015-04-26  Stefan Monnier  <monnier@iro.umontreal.ca>
+
+	* packages/ahungry-theme/ahungry-theme.el: Use lexical-binding.
+
+2015-03-10  Matthew Carter  <m@ahungry.com>
+
+	Merge commit 'f954c936afc1e3de21a3ee0d6e5add9853f8ed58'
+
+2015-02-09  Stefan Monnier  <monnier@iro.umontreal.ca>
+
+	* color-theme-ahungry.el: Don't burp if color-theme is missing
+
+2015-02-06  Matthew Carter  <m@ahungry.com>
+
+	Merge commit '3843afc1e499123bea752c925a4c0d0b7167b8a7'
+
+2015-02-06  Matthew Carter  <m@ahungry.com>
+
+	Merge commit '4c9fdc8a28ee4cfd795c94bc4b872138f363ae0f'
+
+2015-02-06  Matthew Carter  <m@ahungry.com>
+
+	Merge commit 'e312e04bc813a642483f0be67a6073cb93a24552'
+
+2015-01-27  Matthew Carter  <m@ahungry.com>
+
+	Merge commit '1583a82fdcd387de95d27c384ec590e714d24c6a' as
+	'packages/ahungry-theme'
+
