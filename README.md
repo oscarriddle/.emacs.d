@@ -1,4 +1,4 @@
-# A Personal Preference Configuration of Emacs
+# A Personal Lightweight Configuration of Emacs
   This is my emacs configuration tree, which was maintained since I was in 
 Sato Takashi Lab in Kyoto University, and now added several new packages 
 for fansy and convient features. Light-weight and transportability are 
