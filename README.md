@@ -51,7 +51,7 @@ sudo apt-get upgrade
 sudo apt-get install cmake # in case you didn't have cmake
 sudo apt-get install libclang-3.5-dev
 # cmake irony and install
-sudo cmake -DCMAKE_INSTALL_PREFIX\=/home/xiaoluncao/.emacs.d/irony/ /home/xiaoluncao/.emacs.d/elpa/irony-mode/server
+sudo cmake -DCMAKE_INSTALL_PREFIX\=~/.emacs.d/irony/ ~/.emacs.d/elpa/irony-mode/server
 sudo cmake --build . --use-stderr --config Release --target install
 ```
 
