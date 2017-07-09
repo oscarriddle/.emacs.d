@@ -1,8 +1,9 @@
 # A Personal Preference Configuration of Emacs
-  This is my emacs configuration tree, which maintained since in 
-Sato Takashi Lab in Kyoto University, and now ammend several new packages 
+  This is my emacs configuration tree, which was maintained since I was in 
+Sato Takashi Lab in Kyoto University, and now added several new packages 
 for fansy and convient features. Light-weight and transportability are 
-considered as the most important things. 
+considered as the most important things. This is my starting point of Emacs
+Lisps and hopefully it can help you in develop and study.
 
 Main Packages Support:
 -
