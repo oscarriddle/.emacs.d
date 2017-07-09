@@ -1,9 +1,12 @@
 # A Personal Lightweight Configuration of Emacs
   This is my emacs configuration tree, which was maintained since I was in 
 Sato Takashi Lab in Kyoto University, and now added several new packages 
-for fansy and convient features. Light-weight and transportability are 
+for usful and convenient features. Light-weight and transportability are 
 considered as the most important things. This is my starting point of Emacs
 Lisps and hopefully it can help you in develop and study.
+  Functions and supported settings are all explained in the comment lines 
+in the init.el. The init-locals.el is prepared for you if you have more 
+personal configurations.
 
 Main Packages Support:
 -
@@ -55,4 +58,8 @@ sudo cmake -DCMAKE_INSTALL_PREFIX\=~/.emacs.d/irony/ ~/.emacs.d/elpa/irony-mode/
 sudo cmake --build . --use-stderr --config Release --target install
 ```
 
+Appearance
+-
+![Python](https://github.com/oscarriddle/emacs.d/blob/master/misc/appereance_py.png)
+-
 Enjoy
